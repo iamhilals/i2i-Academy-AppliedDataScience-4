@@ -1,1 +1,1 @@
-# i2i-Academy-AppliedDataScience-4
+Bu projede Jupyter Notebook üzerinde Atık Su Verisindeki Infulenze A Tespit veri seti için k-NN, Random Forest,Logistic Regresion, Gradian Boosting algoritmaları eğitilmiş ve accuracy değerleri karşılaştırılmıştır.
